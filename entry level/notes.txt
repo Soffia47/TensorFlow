@@ -1,0 +1,9 @@
+call python directly and write codes
+or
+excute the source file using python3 filename
+
+Mac OS has a self-installed python in version 2.
+tensorflow is installed and linked to python3
+
+try:
+python3 -> import tensorflow as tf;
